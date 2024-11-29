@@ -1,0 +1,51 @@
+{
+  "voiceNotes": {
+    "greetings": {
+      "King": {
+        "voiceNote": "https://github.com/yahyeal/STATUS-COMMAND/raw/refs/heads/main/Hoth%20Rasiley%20Welcome%20128%20Kbps.mp3",
+          "url": "<img src="https://i.ibb.co/GdCqTPh/68747470733a2f2f66696c65732e636174626f782e6d6f652f7775797234312e6a7067.jpg",
+          "caption": "YES AIM KING😆."
+        }
+      },
+      "good morning": {
+        "voiceNote": "https://example.com/path/to/your/voice-note-good-morning.mp3",
+        "image": {
+          "url": "https://example.com/path/to/your/image-good-morning.jpg",
+          "caption": "Good morning! Wishing you a wonderful day."
+        }
+      }
+    },
+    "farewells": {
+      "bye": {
+        "voiceNote": "https://example.com/path/to/your/voice-note-bye.mp3",
+        "image": {
+          "url": "https://example.com/path/to/your/image-bye.jpg",
+          "caption": "Goodbye! See you next time."
+        }
+      },
+      "good night": {
+        "voiceNote": "https://example.com/path/to/your/voice-note-good-night.mp3",
+        "image": {
+          "url": "https://example.com/path/to/your/image-good-night.jpg",
+          "caption": "Good night! Sleep tight."
+        }
+      }
+    },
+    "gratitude": {
+      "thank you": {
+        "voiceNote": "https://example.com/path/to/your/voice-note-thank-you.mp3",
+        "image": {
+          "url": "https://example.com/path/to/your/image-thank-you.jpg",
+          "caption": "Thank you! I appreciate it."
+        }
+      },
+      "thanks a lot": {
+        "voiceNote": "https://example.com/path/to/your/voice-note-thanks-a-lot.mp3",
+        "image": {
+          "url": "https://example.com/path/to/your/image-thanks-a-lot.jpg",
+          "caption": "Thanks a lot! You're the best!"
+        }
+      }
+    }
+  }
+}
